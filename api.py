@@ -22,7 +22,7 @@ query_params = {
 }
 
 headers = {
-    "Authorization": "Bearer 613QfZpz-z2fhXzLESt2akKAUExRiCixezP7UHNKm-jIJP4sZt6wcpAYb5mBpNTkMw4vfksreZgvSnQPXijyuw6vUS__38XGHxqajYaPEeNg_9tI9fZDtoDqaEsuZHYx"
+    "Authorization": "Bearer *API KEY GOES HERE*"
 }
 
 response = requests.get(yelp_url + "?" + urlencode(query_params), headers=headers)

@@ -1,12 +1,12 @@
-# Wordle Solver
+# GBM 9
 
-Wordle Solver is a program that will help players obtain the winning word quicker than they would on their own. Use our program and follow the instructions to win the game in less iterations than a regular player!
+This application is a simple program that pulls the location from your IP address using the ip.info RESTful API and then supplies it to the YELP API to get restaurants near you.
 
 Coded in Python by Shawn Pradeep.
 
 ## Dependencies
 
-Wordle Solver requires a few Python libraries to run:
+This program requires Python to run:
 
 **Install Python:**
 https://www.python.org/downloads/
